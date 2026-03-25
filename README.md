@@ -63,6 +63,7 @@ echo "Zabbix Agent is installed and running on $(hostname)."
 <img width="960" height="901" alt="image" src="https://github.com/user-attachments/assets/ef763d81-49d2-47aa-b950-1dd2fe63586d" />
 
 
+<img width="662" height="514" alt="image" src="https://github.com/user-attachments/assets/7a033a62-6e2f-45a6-b42a-d1b4051dcfb8" />
 
 
 
