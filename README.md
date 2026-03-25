@@ -60,6 +60,12 @@ echo "Zabbix Agent is installed and running on $(hostname)."
 # Output:
 
 
+<img width="960" height="901" alt="image" src="https://github.com/user-attachments/assets/ef763d81-49d2-47aa-b950-1dd2fe63586d" />
+
+
+
+
+
 # Result:
 
 The Zabbix monitoring solution was successfully deployed and configured across the target RHEL systems. Continuous, real-time data collection for CPU utilization, memory consumption, and disk I/O was observed and verified via the central Zabbix server dashboard. Upon simulating high-load stress conditions on the client nodes, the predefined triggers correctly identified resource threshold breaches (e.g., CPU load exceeding 90% for 5 minutes). Consequently, the system successfully generated and dispatched automated email notifications to the designated administrators, confirming the operational readiness of the proactive incident response mechanism.
